@@ -3,9 +3,9 @@ import java.awt.Color;
 /**
  * Write a description of class GreenTintFilter here.
  *
- * @author (your name)
- * @version (a version number or a date)
- */
+ * @author Yixuan Sun
+ * @version 2021.11.29
+ * */
 public class GreenTintFilter extends Filter
 {
     // instance variables - replace the example below with your own

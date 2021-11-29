@@ -3,8 +3,8 @@ import java.awt.Color;
 /**
  * Write a description of class BlueChannelFilter here.
  *
- * @author (your name)
- * @version (a version number or a date)
+ * @author Yixuan Sun
+ * @version 2021.11.29
  */
 public class BlueChannelFilter extends Filter
 {
